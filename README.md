@@ -1,6 +1,6 @@
 ## Todo List
-- [ ] Deploy it to Github
-- [ ] Deploy to the vercel
+- [x] Deploy it to Github
+- [x] Deploy to the vercel
 - [ ] Create UI for Code editor
 - [ ] Create functionality to render what is written
 - [ ] Create an analysis page
